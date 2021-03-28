@@ -2,7 +2,7 @@
 # Run SDC2DRecon on Cityscapes dataset
 
 # Root folder of cityscapes images
-VAL_FILE=~/data/tmp/tinycs
+VAL_FILE=/path/to/val/folder
 SDC2DREC_CHECKPOINT=../pretrained_models/sdc_cityscapes_vrec.pth.tar
 FLOWNET2_CHECKPOINT=../pretrained_models/FlowNet2_checkpoint.pth.tar
 
